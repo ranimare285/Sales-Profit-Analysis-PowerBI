@@ -1,0 +1,6 @@
+# This project is primarily a Power BI project.
+# No Python packages are required to open the .pbix file.
+
+# Optional packages for inspecting or preprocessing the CSV:
+pandas
+numpy
